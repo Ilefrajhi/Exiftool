@@ -8,4 +8,10 @@ Exiftool is a powerful and flexible command-line application for reading, writin
 ![alt text](image-1.png)
 
 # To delete all the GPS data from a picture use the command 
+ 'exiftool -all= picture.png'
+ 
 ![alt text](image-2.png)
+
+
+
+![alt text](image.jpeg)
